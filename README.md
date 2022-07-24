@@ -63,12 +63,35 @@ Repositório para adicionar meus estudos de HTML e CSS do Curso em Video do Prof
 
 ### Exercícios
 
-[016](https://rodverruck.github.io/HTML-CSS-GUANABARA/Curso%20HTML%20e%20CSS/M%C3%B3dulo%2002/Exerc%C3%ADcios/016/)
+[ex016](https://rodverruck.github.io/HTML-CSS-GUANABARA/Curso%20HTML%20e%20CSS/M%C3%B3dulo%2002/Exerc%C3%ADcios/016/)
 
-[017](https://rodverruck.github.io/HTML-CSS-GUANABARA/Curso%20HTML%20e%20CSS/M%C3%B3dulo%2002/Exerc%C3%ADcios/017/)
+[ex017](https://rodverruck.github.io/HTML-CSS-GUANABARA/Curso%20HTML%20e%20CSS/M%C3%B3dulo%2002/Exerc%C3%ADcios/017/)
 
-[018](https://rodverruck.github.io/HTML-CSS-GUANABARA/Curso%20HTML%20e%20CSS/M%C3%B3dulo%2002/Exerc%C3%ADcios/018/)
+[ex018](https://rodverruck.github.io/HTML-CSS-GUANABARA/Curso%20HTML%20e%20CSS/M%C3%B3dulo%2002/Exerc%C3%ADcios/018/)
 
-[019](https://rodverruck.github.io/HTML-CSS-GUANABARA/Curso%20HTML%20e%20CSS/M%C3%B3dulo%2002/Exerc%C3%ADcios/019/)
+[ex019](https://rodverruck.github.io/HTML-CSS-GUANABARA/Curso%20HTML%20e%20CSS/M%C3%B3dulo%2002/Exerc%C3%ADcios/019/)
 
-[020](https://rodverruck.github.io/HTML-CSS-GUANABARA/Curso%20HTML%20e%20CSS/M%C3%B3dulo%2002/Exerc%C3%ADcios/020/)
+[ex020](https://rodverruck.github.io/HTML-CSS-GUANABARA/Curso%20HTML%20e%20CSS/M%C3%B3dulo%2002/Exerc%C3%ADcios/020/)
+
+## Módulo 3
+
+### Desafios
+
+[Projeto Cordel](https://rodverruck.github.io/HTML-CSS-GUANABARA/Curso%20HTML%20e%20CSS/M%C3%B3dulo%2003/Desafios/012/)
+
+### Exercícios
+
+[ex022 - fundo001](https://rodverruck.github.io/HTML-CSS-GUANABARA/Curso%20HTML%20e%20CSS/M%C3%B3dulo%2003/Exerc%C3%ADcios/ex022/fundo001)
+
+[ex022 - fundo002](https://rodverruck.github.io/HTML-CSS-GUANABARA/Curso%20HTML%20e%20CSS/M%C3%B3dulo%2003/Exerc%C3%ADcios/ex022/fundo002)
+
+[ex022 - fundo003](https://rodverruck.github.io/HTML-CSS-GUANABARA/Curso%20HTML%20e%20CSS/M%C3%B3dulo%2003/Exerc%C3%ADcios/ex022/fundo003)
+
+[ex022 - fundo004](https://rodverruck.github.io/HTML-CSS-GUANABARA/Curso%20HTML%20e%20CSS/M%C3%B3dulo%2003/Exerc%C3%ADcios/ex022/fundo004)
+
+[ex022 - fundo005](https://rodverruck.github.io/HTML-CSS-GUANABARA/Curso%20HTML%20e%20CSS/M%C3%B3dulo%2003/Exerc%C3%ADcios/ex022/fundo005)
+
+[ex022 - fundo006](https://rodverruck.github.io/HTML-CSS-GUANABARA/Curso%20HTML%20e%20CSS/M%C3%B3dulo%2003/Exerc%C3%ADcios/ex022/fundo006)
+
+[ex022 - fundo007](https://rodverruck.github.io/HTML-CSS-GUANABARA/Curso%20HTML%20e%20CSS/M%C3%B3dulo%2003/Exerc%C3%ADcios/ex022/fundo007)
+
