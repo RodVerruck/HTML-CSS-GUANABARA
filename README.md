@@ -95,3 +95,17 @@ Repositório para adicionar meus estudos de HTML e CSS do Curso em Video do Prof
 
 [ex022 - fundo007](https://rodverruck.github.io/HTML-CSS-GUANABARA/Curso%20HTML%20e%20CSS/M%C3%B3dulo%2003/Exerc%C3%ADcios/ex022/fundo007)
 
+[ex023 - tabela001](https://rodverruck.github.io/HTML-CSS-GUANABARA/Curso%20HTML%20e%20CSS/M%C3%B3dulo%2003/Exerc%C3%ADcios/ex023/tabela001)
+
+[ex023 - tabela002](https://rodverruck.github.io/HTML-CSS-GUANABARA/Curso%20HTML%20e%20CSS/M%C3%B3dulo%2003/Exerc%C3%ADcios/ex023/tabela002)
+
+[ex023 - tabela003](https://rodverruck.github.io/HTML-CSS-GUANABARA/Curso%20HTML%20e%20CSS/M%C3%B3dulo%2003/Exerc%C3%ADcios/ex023/tabela003)
+
+[ex023 - tabela004](https://rodverruck.github.io/HTML-CSS-GUANABARA/Curso%20HTML%20e%20CSS/M%C3%B3dulo%2003/Exerc%C3%ADcios/ex023/tabela004)
+
+[ex023 - tabela005](https://rodverruck.github.io/HTML-CSS-GUANABARA/Curso%20HTML%20e%20CSS/M%C3%B3dulo%2003/Exerc%C3%ADcios/ex023/tabela005)
+
+[ex023 - tabela006](https://rodverruck.github.io/HTML-CSS-GUANABARA/Curso%20HTML%20e%20CSS/M%C3%B3dulo%2003/Exerc%C3%ADcios/ex023/tabela006)
+
+[ex023 - tabela007](https://rodverruck.github.io/HTML-CSS-GUANABARA/Curso%20HTML%20e%20CSS/M%C3%B3dulo%2003/Exerc%C3%ADcios/ex023/tabela007)
+
