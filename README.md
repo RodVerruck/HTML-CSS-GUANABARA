@@ -123,8 +123,8 @@ Repositório para adicionar meus estudos de HTML e CSS do Curso em Video do Prof
 
 [ex024 - iframe004](https://rodverruck.github.io/HTML-CSS-GUANABARA/Curso%20HTML%20e%20CSS/M%C3%B3dulo%2003/Exerc%C3%ADcios/ex024/iframe004)
 
-[ex025 - form001](https://rodverruck.github.io/HTML-CSS-GUANABARA/Curso%20HTML%20e%20CSS/M%C3%B3dulo%2003/Exerc%C3%ADcios/ex023/form001)
+[ex025 - form001](https://rodverruck.github.io/HTML-CSS-GUANABARA/Curso%20HTML%20e%20CSS/M%C3%B3dulo%2003/Exerc%C3%ADcios/ex025/form001)
 
-[ex025 - form002](https://rodverruck.github.io/HTML-CSS-GUANABARA/Curso%20HTML%20e%20CSS/M%C3%B3dulo%2003/Exerc%C3%ADcios/ex023/form002)
+[ex025 - form002](https://rodverruck.github.io/HTML-CSS-GUANABARA/Curso%20HTML%20e%20CSS/M%C3%B3dulo%2003/Exerc%C3%ADcios/ex025/form002)
 
-[ex025 - form003](https://rodverruck.github.io/HTML-CSS-GUANABARA/Curso%20HTML%20e%20CSS/M%C3%B3dulo%2003/Exerc%C3%ADcios/ex023/form003)
+[ex025 - form003](https://rodverruck.github.io/HTML-CSS-GUANABARA/Curso%20HTML%20e%20CSS/M%C3%B3dulo%2003/Exerc%C3%ADcios/ex025/form003)
